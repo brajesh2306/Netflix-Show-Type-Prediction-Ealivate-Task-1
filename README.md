@@ -76,7 +76,7 @@ Visual insights include:
 
 - **Target:** `type` (0 = Movie, 1 = TV Show)
 - **Train/Test Split:** 80/20
-- **Accuracy:** ~XX% (depends on model run)
+- **Accuracy:** 91%
 - **Feature Importance:** Visualized top contributing features
 
 ### 🔍 Evaluation Metrics
